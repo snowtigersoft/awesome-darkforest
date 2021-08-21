@@ -18,6 +18,12 @@ Awesome darkforest related repos
 * [Broadcast Market](https://github.com/projectsophon/df-play-to-earn)  
   `The first market in game, player can sell your broadcast`
 
+### Explorers
+* [Blue Space](https://github.com/long-rock/blue-space)  
+  `The fastest explorer in game, can explore using your CPU or Nvidia GPU`
+* [MiMC Fast](https://github.com/projectsophon/darkforest-rs/tree/main/mimc-fast)  
+  `A popular explorer written in Rust`
+
 ### Deployment
 * [Dev Guides](https://github.com/darkforest-eth/developer-guides)  
 * [Plugin Dev Server](https://github.com/projectsophon/df-plugin-dev-server)
