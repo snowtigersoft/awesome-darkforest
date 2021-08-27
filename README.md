@@ -1,15 +1,18 @@
-# Awesome Darkforest
+# Awesome Dark Forest
 Awesome darkforest related repos
 ![image](https://user-images.githubusercontent.com/3327253/130306729-70459815-9224-4ab3-8900-d73b7b2fac49.png)
 
-## About Darkforest
+## About Dark forest
 * [Game Homepage](https://zkga.me/)  
-  `The home of Darkforest, current is on v0.6 round 3, you need a whitelist key to play it`
-* [Darkforest Client](https://github.com/darkforest-eth/client)  
-  `Darkforest web client repo`
-* [Darkforest smart contract](https://github.com/darkforest-eth/eth)  
+  `The home of Dark Forest, current is on v0.6 round 3, you need a whitelist key to play it`
+* [Dark Forest Client](https://github.com/darkforest-eth/client)  
+  `Dark Forest web client repo`
+* [Dark Forest smart contract](https://github.com/darkforest-eth/eth)  
 * [Plugins showcase](https://github.com/darkforest-eth/plugins)  
-  `Darkforest in game plugins showcase`
+  `Very lightly audited Dark Forest in game plugins showcase`
+
+## Warning
+Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of being audited. Smart contracts could be malicious or be found to be insecure. Further, all plugins and pasted code in the Dark Forest console have access to your private key and ability to sign transactions (without a cpnfirmation popup). This means they could now or in the future take all your funds, planets, artifacts etc from your burner wallet. You should rotate burner wallets often, not keep more funds or nfts than you're willing to lose, and be careful using any plugins that you haven't written yourself or by someone you trust completely. Further, some plugins dynamically load dependencies under the hood meaning a 'safe' plugin could become unsafe in the future! All use is at your own risk.
 
 ## Plugins
 ### Marketplace
