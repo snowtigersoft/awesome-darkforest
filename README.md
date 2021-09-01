@@ -20,6 +20,9 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 * [Blue Space](https://github.com/long-rock/blue-space) The fastest explorer in game, can explore using your CPU or Nvidia GPU
 * [MiMC Fast](https://github.com/projectsophon/darkforest-rs/tree/main/mimc-fast) A popular cpu explorer written in Rust
 
+### Automation
+* [Vizier](https://github.com/arachnid/df-vizier) An 'AI assistant' that automates a number of tasks for you
+
 ### Deployment
 * [Dev Guides](https://github.com/darkforest-eth/developer-guides)  
 * [Plugin Dev Server](https://github.com/projectsophon/df-plugin-dev-server)
