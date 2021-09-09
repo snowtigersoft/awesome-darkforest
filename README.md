@@ -50,3 +50,9 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 
 * [Valhalla](https://valhalla.zkga.me/#/) Mainnet Ethereum NFT rewards for each round starting in v0.6
 * Each round since v0.5 also had xDAI NFT Artifacts that could be found during the round and withdrawn from the game. If you find a marketplace for these please post!
+
+### DAOs/Guilds/Teams
+
+* [dfdao](https://dfdao.github.io/) [d_fdao](https://twitter.com/d_fdao)
+* [MarrowDAO](https://buidl.mirror.xyz)/ [marrowdao](https://twitter.com/marrowdao) v0.6 Round 2 and 3 Winners
+* [Project Sophon](https://github.com/projectsophon) [sophon_eth](https://twitter.com/sophon_eth) v0.4 winners
