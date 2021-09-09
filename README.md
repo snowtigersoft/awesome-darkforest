@@ -36,6 +36,7 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 ### Automation
 
 * [Vizier](https://github.com/arachnid/df-vizier) An 'AI assistant' that automates a number of tasks for you
+* [Seldon](https://github.com/Bind/Seldon) A set of scripts for Dark Forest
 
 ### Developers
 
