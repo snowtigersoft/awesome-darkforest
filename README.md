@@ -59,6 +59,7 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 * [Project Sophon](https://github.com/projectsophon) [sophon_eth](https://twitter.com/sophon_eth) v0.4 winners
 
 ### Streamers
-
+Theres a [Dark Forest Twitch Category](https://www.twitch.tv/directory/game/Dark%20Forest)
 * [darkforest_eth Official](https://www.twitch.tv/darkforest_eth) official twitch streams
 * [Jordan Spence](https://www.twitch.tv/sanctified) tutorials and in game events streaming
+* [ner0nzz](https://www.twitch.tv/ner0nzz) high level DF player and pvp commentary
