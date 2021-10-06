@@ -39,6 +39,10 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 * [Vizier](https://github.com/arachnid/df-vizier) An 'AI assistant' that automates a number of tasks for you
 * [Seldon](https://github.com/Bind/Seldon) A set of scripts for Dark Forest
 
+### Contract players
+
+* [Astral Colossus](https://astralcolossus.xyz/) The Astral Colossus from [dfdao](https://twitter.com/d_fdao) is a smart contract that is whitelisted and initialized in Dark Forest as a player. It enables players to gift planets and artifacts to the smart contract to contribute to the Astral Colossus's score on the DF leaderboard.
+
 ### Developers
 
 * [Dev Guides](https://github.com/darkforest-eth/developer-guides)  
