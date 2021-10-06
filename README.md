@@ -41,7 +41,7 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 
 ### Contract players
 
-* [Astral Colossus](https://astralcolossus.xyz/) The Astral Colossus is a smart contract that is whitelisted and initialized in Dark Forest as a player. It enables players to gift planets and artifacts to the smart contract to contribute to the Astral Colossus's score on the DF leaderboard.
+* [Astral Colossus](https://astralcolossus.xyz/) The Astral Colossus from [dfdao](https://twitter.com/d_fdao) is a smart contract that is whitelisted and initialized in Dark Forest as a player. It enables players to gift planets and artifacts to the smart contract to contribute to the Astral Colossus's score on the DF leaderboard.
 
 ### Developers
 
