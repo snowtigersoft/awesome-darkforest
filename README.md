@@ -59,8 +59,10 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 ### DAOs/Guilds/Teams
 
 * [dfdao](https://dfdao.github.io/) [d_fdao](https://twitter.com/d_fdao)
-* [MarrowDAO](https://buidl.mirror.xyz)/ [marrowdao](https://twitter.com/marrowdao) v0.6 Round 2 and 3 Winners
+* [orden](https://twitter.com/orden_gg) round 2-4 winners (v0.6)
+* [MarrowDAO](https://buidl.mirror.xyz)/ [marrowdao](https://twitter.com/marrowdao)
 * [Project Sophon](https://github.com/projectsophon) [sophon_eth](https://twitter.com/sophon_eth) v0.4 winners
+
 
 ### Streamers
 Theres a [Dark Forest Twitch Category](https://www.twitch.tv/directory/game/Dark%20Forest)
