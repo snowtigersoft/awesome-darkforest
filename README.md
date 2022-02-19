@@ -1,12 +1,12 @@
 # Awesome Dark Forest
 
 Awesome darkforest related repos
-![round4](https://user-images.githubusercontent.com/3327253/135652297-2d5c14ce-bc74-4fa9-8756-497d24891365.jpeg)
+![round5](https://user-images.githubusercontent.com/3327253/154788201-c28eeabc-1d92-41e7-9196-594597ddea17.png)
 
 
 ## About Dark forest
 
-* [Game Homepage](https://zkga.me/) The home of Darkforest, current is on v0.6 round 4, you need a whitelist key to play it
+* [Game Homepage](https://zkga.me/) The home of Darkforest, current is on v0.6 round 5, you need a whitelist key to play it
 * [Darkforest Client](https://github.com/darkforest-eth/client) Darkforest web client repo
 * [Darkforest smart contract](https://github.com/darkforest-eth/eth)  
 * [Plugins showcase](https://github.com/darkforest-eth/plugins) Darkforest in game plugins showcase
