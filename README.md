@@ -48,6 +48,7 @@ Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of bei
 * [Dev Guides](https://github.com/darkforest-eth/developer-guides)  
 * [Plugin Dev Server](https://github.com/projectsophon/df-plugin-dev-server)
 * [Dark Forest local deployment kit](https://github.com/projectsophon/darkforest-local)
+* [Plugin Starter Kit](https://github.com/Bind/my-first-plugin)
 * [darkforest-minimal-js](https://github.com/projectsophon/darkforest-minimal-js) The most minimal Dark Forest javascript example
 * [Dark Forest Rust](https://github.com/gakonst/dark-forest) [WIP] Rust implementation of the Dark Forest game client
 
