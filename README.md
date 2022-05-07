@@ -13,7 +13,7 @@ Awesome darkforest related repos
 
 ## Warning
 
-Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of being audited. Smart contracts could be malicious or be found to be insecure. Further, all plugins and pasted code in the Dark Forest console have access to your private key and ability to sign transactions (without a cpnfirmation popup). This means they could now or in the future take all your funds, planets, artifacts etc from your burner wallet. You should rotate burner wallets often, not keep more funds or nfts than you're willing to lose, and be careful using any plugins that you haven't written yourself or by someone you trust completely. Further, some plugins dynamically load dependencies under the hood meaning a 'safe' plugin could become unsafe in the future! All use is at your own risk.
+Nothing here (or anywhere in the Dark Forest ecosystem) has any guarantee of being audited. Smart contracts could be malicious or be found to be insecure. Further, all plugins and pasted code in the Dark Forest console have access to your private key and ability to sign transactions (without a confirmation popup). This means they could now or in the future take all your funds, planets, artifacts etc from your burner wallet. You should rotate burner wallets often, not keep more funds or nfts than you're willing to lose, and be careful using any plugins that you haven't written yourself or by someone you trust completely. Further, some plugins dynamically load dependencies under the hood meaning a 'safe' plugin could become unsafe in the future! All use is at your own risk.
 
 ## Plugins
 
